@@ -1,8 +1,8 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: Georgia, serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
+  background: #F5DEB3;
 }
 
 header {
@@ -13,7 +13,7 @@ header {
 }
 
 header a {
-  color: #fff;
+  color: #D8BFD8;
   margin-left: 20px;
   text-decoration: none;
 }
@@ -46,7 +46,7 @@ textarea {
 footer {
   text-align: center;
   padding: 10px;
-  background: #222;
+  background: #D8BFD8;
   color: white;
   position: fixed;
   width: 100%;
